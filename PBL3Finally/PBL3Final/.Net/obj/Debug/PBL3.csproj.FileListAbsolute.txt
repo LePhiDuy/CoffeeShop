@@ -1,0 +1,1384 @@
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\.Net\obj\Debug\PBL3.csproj.AssemblyReference.cache
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\.Net\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\.Net\obj\Debug\PBL3.FormFrgtPw.resources
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\.Net\obj\Debug\PBL3.FormInfo.ChangeEmail.resources
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\.Net\obj\Debug\PBL3.FormInfo.ChangePassword.resources
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\.Net\obj\Debug\PBL3.FormInfo.Info.resources
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\.Net\obj\Debug\PBL3.FormManage.FormManage.resources
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\.Net\obj\Debug\PBL3.FormManage.ManageAccount.resources
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\.Net\obj\Debug\PBL3.FormManage.ManageFood.resources
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\.Net\obj\Debug\PBL3.FormManage.ManageFoodType.resources
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\.Net\obj\Debug\PBL3.FormManage.ManageTable.resources
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\.Net\obj\Debug\PBL3.HOME.resources
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\.Net\obj\Debug\PBL3.FormInfo.InfoAccount.resources
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\.Net\obj\Debug\PBL3.Login.resources
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\.Net\obj\Debug\PBL3.Properties.Resources.resources
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\.Net\obj\Debug\PBL3.csproj.GenerateResource.cache
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\.Net\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\.Net\bin\Debug\PBL3.exe.config
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\.Net\bin\Debug\PBL3.exe
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\.Net\bin\Debug\PBL3.pdb
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\.Net\bin\Debug\BUS.dll
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\.Net\bin\Debug\DTO.dll
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\.Net\bin\Debug\DAL.dll
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\.Net\bin\Debug\BUS.pdb
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\.Net\bin\Debug\DTO.pdb
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\.Net\bin\Debug\DAL.pdb
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\.Net\obj\Debug\PBL3.csproj.CopyComplete
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\.Net\obj\Debug\PBL3.exe
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\.Net\obj\Debug\PBL3.pdb
+D:\Ki 4\PBL\PBL3-git\.Net\bin\Debug\PBL3.exe.config
+D:\Ki 4\PBL\PBL3-git\.Net\bin\Debug\PBL3.exe
+D:\Ki 4\PBL\PBL3-git\.Net\bin\Debug\PBL3.pdb
+D:\Ki 4\PBL\PBL3-git\.Net\bin\Debug\BUS.dll
+D:\Ki 4\PBL\PBL3-git\.Net\bin\Debug\DTO.dll
+D:\Ki 4\PBL\PBL3-git\.Net\bin\Debug\DAL.dll
+D:\Ki 4\PBL\PBL3-git\.Net\bin\Debug\BUS.pdb
+D:\Ki 4\PBL\PBL3-git\.Net\bin\Debug\DTO.pdb
+D:\Ki 4\PBL\PBL3-git\.Net\bin\Debug\DAL.pdb
+D:\Ki 4\PBL\PBL3-git\.Net\obj\Debug\PBL3.csproj.AssemblyReference.cache
+D:\Ki 4\PBL\PBL3-git\.Net\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+D:\Ki 4\PBL\PBL3-git\.Net\obj\Debug\PBL3.FormFrgtPw.resources
+D:\Ki 4\PBL\PBL3-git\.Net\obj\Debug\PBL3.FormInfo.ChangeEmail.resources
+D:\Ki 4\PBL\PBL3-git\.Net\obj\Debug\PBL3.FormInfo.ChangePassword.resources
+D:\Ki 4\PBL\PBL3-git\.Net\obj\Debug\PBL3.FormInfo.Info.resources
+D:\Ki 4\PBL\PBL3-git\.Net\obj\Debug\PBL3.FormManage.FormManage.resources
+D:\Ki 4\PBL\PBL3-git\.Net\obj\Debug\PBL3.FormManage.ManageAccount.resources
+D:\Ki 4\PBL\PBL3-git\.Net\obj\Debug\PBL3.FormManage.ManageFood.resources
+D:\Ki 4\PBL\PBL3-git\.Net\obj\Debug\PBL3.FormManage.ManageFoodType.resources
+D:\Ki 4\PBL\PBL3-git\.Net\obj\Debug\PBL3.FormManage.ManageTable.resources
+D:\Ki 4\PBL\PBL3-git\.Net\obj\Debug\PBL3.HOME.resources
+D:\Ki 4\PBL\PBL3-git\.Net\obj\Debug\PBL3.FormInfo.InfoAccount.resources
+D:\Ki 4\PBL\PBL3-git\.Net\obj\Debug\PBL3.Login.resources
+D:\Ki 4\PBL\PBL3-git\.Net\obj\Debug\PBL3.Properties.Resources.resources
+D:\Ki 4\PBL\PBL3-git\.Net\obj\Debug\PBL3.csproj.GenerateResource.cache
+D:\Ki 4\PBL\PBL3-git\.Net\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+D:\Ki 4\PBL\PBL3-git\.Net\obj\Debug\PBL3.csproj.CopyComplete
+D:\Ki 4\PBL\PBL3-git\.Net\obj\Debug\PBL3.exe
+D:\Ki 4\PBL\PBL3-git\.Net\obj\Debug\PBL3.pdb
+D:\PBL3-demo-long\.Net\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\PBL3-demo-long\.Net\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\PBL3-demo-long\.Net\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\PBL3-demo-long\.Net\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\PBL3-demo-long\.Net\bin\Debug\PBL3.exe.config
+D:\PBL3-demo-long\.Net\bin\Debug\PBL3.exe
+D:\PBL3-demo-long\.Net\bin\Debug\PBL3.pdb
+D:\PBL3-demo-long\.Net\bin\Debug\BUS.dll
+D:\PBL3-demo-long\.Net\bin\Debug\DAL.dll
+D:\PBL3-demo-long\.Net\bin\Debug\DTO.dll
+D:\PBL3-demo-long\.Net\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\PBL3-demo-long\.Net\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\PBL3-demo-long\.Net\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\PBL3-demo-long\.Net\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\PBL3-demo-long\.Net\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\PBL3-demo-long\.Net\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\PBL3-demo-long\.Net\bin\Debug\EnvDTE.dll
+D:\PBL3-demo-long\.Net\bin\Debug\stdole.dll
+D:\PBL3-demo-long\.Net\bin\Debug\BUS.pdb
+D:\PBL3-demo-long\.Net\bin\Debug\DAL.pdb
+D:\PBL3-demo-long\.Net\bin\Debug\DTO.pdb
+D:\PBL3-demo-long\.Net\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL3-demo-long\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL3-demo-long\.Net\obj\Debug\PBL3.csproj.AssemblyReference.cache
+D:\PBL3-demo-long\.Net\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+D:\PBL3-demo-long\.Net\obj\Debug\PBL3.FormFrgtPw.resources
+D:\PBL3-demo-long\.Net\obj\Debug\PBL3.FormInfo.ChangeEmail.resources
+D:\PBL3-demo-long\.Net\obj\Debug\PBL3.FormInfo.ChangePassword.resources
+D:\PBL3-demo-long\.Net\obj\Debug\PBL3.FormInfo.Info.resources
+D:\PBL3-demo-long\.Net\obj\Debug\PBL3.FormManage.FormManage.resources
+D:\PBL3-demo-long\.Net\obj\Debug\PBL3.FormManage.ManageAccount.resources
+D:\PBL3-demo-long\.Net\obj\Debug\PBL3.FormManage.ManageFood.resources
+D:\PBL3-demo-long\.Net\obj\Debug\PBL3.FormManage.ManageFoodType.resources
+D:\PBL3-demo-long\.Net\obj\Debug\PBL3.FormManage.ManageTable.resources
+D:\PBL3-demo-long\.Net\obj\Debug\PBL3.HOME.resources
+D:\PBL3-demo-long\.Net\obj\Debug\PBL3.FormInfo.InfoAccount.resources
+D:\PBL3-demo-long\.Net\obj\Debug\PBL3.Login.resources
+D:\PBL3-demo-long\.Net\obj\Debug\PBL3.PrintBill.resources
+D:\PBL3-demo-long\.Net\obj\Debug\PBL3.Properties.Resources.resources
+D:\PBL3-demo-long\.Net\obj\Debug\PBL3.csproj.GenerateResource.cache
+D:\PBL3-demo-long\.Net\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+D:\PBL3-demo-long\.Net\obj\Debug\PBL3.csproj.CopyComplete
+D:\PBL3-demo-long\.Net\obj\Debug\PBL3.exe
+D:\PBL3-demo-long\.Net\obj\Debug\PBL3.pdb
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\PBL3.exe.config
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\PBL3.exe
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\PBL3.pdb
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\BUS.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\DAL.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\DTO.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\EnvDTE.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\stdole.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\BUS.pdb
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\DAL.pdb
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\DTO.pdb
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.csproj.AssemblyReference.cache
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormFrgtPw.resources
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormInfo.ChangeEmail.resources
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormInfo.ChangePassword.resources
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormInfo.Info.resources
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormManage.FormManage.resources
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormManage.ManageAccount.resources
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormManage.ManageFood.resources
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormManage.ManageFoodType.resources
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormManage.ManageTable.resources
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.HOME.resources
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormInfo.InfoAccount.resources
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.Login.resources
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.PrintBill.resources
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.Properties.Resources.resources
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.csproj.GenerateResource.cache
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.csproj.CopyComplete
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.exe
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.pdb
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\PBL3.exe.config
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\PBL3.exe
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\PBL3.pdb
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\BUS.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\DAL.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\DTO.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\EnvDTE.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\stdole.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\BUS.pdb
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\DAL.pdb
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\DTO.pdb
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.csproj.AssemblyReference.cache
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormFrgtPw.resources
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormInfo.ChangeEmail.resources
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormInfo.ChangePassword.resources
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormInfo.Info.resources
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormManage.FormManage.resources
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormManage.ManageAccount.resources
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormManage.ManageFood.resources
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormManage.ManageFoodType.resources
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormManage.ManageTable.resources
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.HOME.resources
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormInfo.InfoAccount.resources
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.Login.resources
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.PrintBill.resources
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.Properties.Resources.resources
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.csproj.GenerateResource.cache
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.csproj.CopyComplete
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.exe
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.pdb
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.StatisticForm.resources
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\PBL3.exe.config
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\PBL3.exe
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\PBL3.pdb
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\BUS.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\DAL.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\DTO.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\EnvDTE.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\stdole.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\BUS.pdb
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\DAL.pdb
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\DTO.pdb
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.csproj.AssemblyReference.cache
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormFrgtPw.resources
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormInfo.ChangeEmail.resources
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormInfo.ChangePassword.resources
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormInfo.Info.resources
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormManage.FormManage.resources
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormManage.ManageAccount.resources
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormManage.ManageFood.resources
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormManage.ManageFoodType.resources
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormManage.ManageTable.resources
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.HOME.resources
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormInfo.InfoAccount.resources
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.Login.resources
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.PrintBill.resources
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.Properties.Resources.resources
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.StatisticForm.resources
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.csproj.GenerateResource.cache
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.csproj.CopyComplete
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.exe
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.pdb
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\PBL3.exe.config
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\PBL3.exe
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\PBL3.pdb
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\BUS.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\DAL.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\DTO.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\EnvDTE.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\stdole.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\BUS.pdb
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\DAL.pdb
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\DTO.pdb
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.csproj.AssemblyReference.cache
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormFrgtPw.resources
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormInfo.ChangeEmail.resources
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormInfo.ChangePassword.resources
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormInfo.Info.resources
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormManage.FormManage.resources
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormManage.ManageAccount.resources
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormManage.ManageFood.resources
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormManage.ManageFoodType.resources
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormManage.ManageTable.resources
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.HOME.resources
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.FormInfo.InfoAccount.resources
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.Login.resources
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.PrintBill.resources
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.Properties.Resources.resources
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.StatisticForm.resources
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.csproj.GenerateResource.cache
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.csproj.CopyComplete
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.exe
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\.Net\obj\Debug\PBL3.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\PBL3.exe.config
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\PBL3.exe
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\PBL3.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\BUS.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\DAL.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\DTO.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\EnvDTE.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\stdole.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\BUS.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\DAL.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\DTO.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\obj\Debug\PBL3.csproj.AssemblyReference.cache
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormFrgtPw.resources
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormInfo.ChangeEmail.resources
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormInfo.ChangePassword.resources
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormInfo.Info.resources
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormManage.FormManage.resources
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormManage.ManageAccount.resources
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormManage.ManageFood.resources
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormManage.ManageFoodType.resources
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormManage.ManageTable.resources
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\obj\Debug\PBL3.HOME.resources
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormInfo.InfoAccount.resources
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\obj\Debug\PBL3.Login.resources
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\obj\Debug\PBL3.PrintBill.resources
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\obj\Debug\PBL3.Properties.Resources.resources
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\obj\Debug\PBL3.StatisticForm.resources
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\obj\Debug\PBL3.csproj.GenerateResource.cache
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\obj\Debug\PBL3.csproj.CopyComplete
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\obj\Debug\PBL3.exe
+C:\Users\84354\Desktop\PBL3-Thống kê\.Net\obj\Debug\PBL3.pdb
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\PBL3.exe.config
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\PBL3.exe
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\PBL3.pdb
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\BUS.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\DAL.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\DTO.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\EnvDTE.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\stdole.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\BUS.pdb
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\DAL.pdb
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\DTO.pdb
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.csproj.AssemblyReference.cache
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormFrgtPw.resources
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormInfo.ChangeEmail.resources
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormInfo.ChangePassword.resources
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormInfo.Info.resources
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormManage.FormManage.resources
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormManage.ManageAccount.resources
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormManage.ManageFood.resources
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormManage.ManageFoodType.resources
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormManage.ManageTable.resources
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.HOME.resources
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormInfo.InfoAccount.resources
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.Login.resources
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.PrintBill.resources
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.Properties.Resources.resources
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.StatisticForm.resources
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.csproj.GenerateResource.cache
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.csproj.CopyComplete
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.exe
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\PBL3.exe.config
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\PBL3.exe
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\PBL3.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\BUS.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\DAL.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\DTO.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\EnvDTE.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\stdole.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\BUS.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\DAL.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\DTO.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.csproj.AssemblyReference.cache
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormFrgtPw.resources
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormInfo.ChangeEmail.resources
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormInfo.ChangePassword.resources
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormInfo.Info.resources
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormManage.FormManage.resources
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormManage.ManageAccount.resources
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormManage.ManageFood.resources
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormManage.ManageFoodType.resources
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormManage.ManageTable.resources
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.HOME.resources
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormInfo.InfoAccount.resources
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.Login.resources
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.PrintBill.resources
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.Properties.Resources.resources
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.StatisticForm.resources
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.csproj.GenerateResource.cache
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.csproj.CopyComplete
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.exe
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.pdb
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\PBL3.exe.config
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\PBL3.exe
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\PBL3.pdb
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\BUS.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\DAL.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\DTO.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\EnvDTE.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\stdole.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\BUS.pdb
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\DAL.pdb
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\DTO.pdb
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.csproj.AssemblyReference.cache
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormFrgtPw.resources
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormInfo.ChangeEmail.resources
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormInfo.ChangePassword.resources
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormInfo.Info.resources
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormManage.FormManage.resources
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormManage.ManageAccount.resources
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormManage.ManageFood.resources
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormManage.ManageFoodType.resources
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormManage.ManageTable.resources
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.HOME.resources
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.FormInfo.InfoAccount.resources
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.Login.resources
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.PrintBill.resources
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.Properties.Resources.resources
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.StatisticForm.resources
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.csproj.GenerateResource.cache
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.csproj.CopyComplete
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.exe
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\.Net\obj\Debug\PBL3.pdb
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\PBL3.exe.config
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\PBL3.exe
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\PBL3.pdb
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\BUS.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\DAL.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\DTO.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\EnvDTE.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\stdole.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\BUS.pdb
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\DAL.pdb
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\DTO.pdb
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.csproj.AssemblyReference.cache
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormFrgtPw.resources
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormInfo.ChangeEmail.resources
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormInfo.ChangePassword.resources
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormInfo.Info.resources
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormManage.FormManage.resources
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormManage.ManageAccount.resources
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormManage.ManageFood.resources
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormManage.ManageFoodType.resources
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormManage.ManageTable.resources
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.HOME.resources
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormInfo.InfoAccount.resources
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.Login.resources
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.PrintBill.resources
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.Properties.Resources.resources
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.StatisticForm.resources
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.csproj.GenerateResource.cache
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.csproj.CopyComplete
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.exe
+D:\Ki 4\PBL\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.pdb
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\PBL3.exe.config
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\PBL3.exe
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\PBL3.pdb
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\BUS.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\DAL.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\DTO.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\EnvDTE.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\stdole.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\BUS.pdb
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\DAL.pdb
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\DTO.pdb
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.csproj.AssemblyReference.cache
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormFrgtPw.resources
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormInfo.ChangeEmail.resources
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormInfo.ChangePassword.resources
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormInfo.Info.resources
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormManage.FormManage.resources
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormManage.ManageAccount.resources
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormManage.ManageFood.resources
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormManage.ManageFoodType.resources
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormManage.ManageTable.resources
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.HOME.resources
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormInfo.InfoAccount.resources
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.Login.resources
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.PrintBill.resources
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.Properties.Resources.resources
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.StatisticForm.resources
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.csproj.GenerateResource.cache
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.csproj.CopyComplete
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.exe
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.pdb
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\PBL3.exe.config
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\PBL3.exe
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\PBL3.pdb
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\BUS.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\DAL.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\DTO.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\EnvDTE.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\stdole.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\BUS.pdb
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\DAL.pdb
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\DTO.pdb
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.csproj.AssemblyReference.cache
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormFrgtPw.resources
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormInfo.ChangeEmail.resources
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormInfo.ChangePassword.resources
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormManage.FormManage.resources
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormManage.ManageAccount.resources
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormManage.ManageFood.resources
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormManage.ManageFoodType.resources
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormManage.ManageTable.resources
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.HOME.resources
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormInfo.InfoAccount.resources
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.Login.resources
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.PrintBill.resources
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.Properties.Resources.resources
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.StatisticForm.resources
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.csproj.GenerateResource.cache
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.csproj.CopyComplete
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.exe
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.pdb
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormInfo.InfoPersonal.resources
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\PBL3.exe.config
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\PBL3.exe
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\PBL3.pdb
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\BUS.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\DAL.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\DTO.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\EnvDTE.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\stdole.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\BUS.pdb
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\DAL.pdb
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\DTO.pdb
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\obj\Debug\PBL3.csproj.AssemblyReference.cache
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\obj\Debug\PBL3.FormFrgtPw.resources
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\obj\Debug\PBL3.FormInfo.ChangeEmail.resources
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\obj\Debug\PBL3.FormInfo.ChangePassword.resources
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\obj\Debug\PBL3.FormInfo.InfoPersonal.resources
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\obj\Debug\PBL3.FormManage.FormManage.resources
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\obj\Debug\PBL3.FormManage.ManageAccount.resources
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\obj\Debug\PBL3.FormManage.ManageFood.resources
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\obj\Debug\PBL3.FormManage.ManageFoodType.resources
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\obj\Debug\PBL3.FormManage.ManageTable.resources
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\obj\Debug\PBL3.HOME.resources
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\obj\Debug\PBL3.FormInfo.InfoAccount.resources
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\obj\Debug\PBL3.Login.resources
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\obj\Debug\PBL3.PrintBill.resources
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\obj\Debug\PBL3.Properties.Resources.resources
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\obj\Debug\PBL3.StatisticForm.resources
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\obj\Debug\PBL3.csproj.GenerateResource.cache
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\obj\Debug\PBL3.csproj.CopyComplete
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\obj\Debug\PBL3.exe
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\.Net\obj\Debug\PBL3.pdb
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\PBL3.exe.config
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\PBL3.exe
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\PBL3.pdb
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\BUS.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\DAL.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\DTO.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\EnvDTE.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\stdole.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\BUS.pdb
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\DAL.pdb
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\DTO.pdb
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.csproj.AssemblyReference.cache
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormFrgtPw.resources
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormInfo.ChangeEmail.resources
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormInfo.ChangePassword.resources
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormInfo.InfoPersonal.resources
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormManage.FormManage.resources
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormManage.ManageAccount.resources
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormManage.ManageFood.resources
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormManage.ManageFoodType.resources
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormManage.ManageTable.resources
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.HOME.resources
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormInfo.InfoAccount.resources
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.Login.resources
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.PrintBill.resources
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.Properties.Resources.resources
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.StatisticForm.resources
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.csproj.GenerateResource.cache
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.csproj.CopyComplete
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.exe
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.pdb
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\PBL3.exe.config
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\PBL3.exe
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\PBL3.pdb
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\BUS.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\DAL.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\DTO.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\EnvDTE.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\stdole.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\BUS.pdb
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\DAL.pdb
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\DTO.pdb
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.csproj.AssemblyReference.cache
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormFrgtPw.resources
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormInfo.ChangeEmail.resources
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormInfo.ChangePassword.resources
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormInfo.InfoPersonal.resources
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormManage.FormManage.resources
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormManage.ManageAccount.resources
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormManage.ManageFood.resources
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormManage.ManageFoodType.resources
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormManage.ManageTable.resources
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.HOME.resources
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.FormInfo.InfoAccount.resources
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.Login.resources
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.PrintBill.resources
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.Properties.Resources.resources
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.StatisticForm.resources
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.csproj.GenerateResource.cache
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.csproj.CopyComplete
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.exe
+D:\PBL3Final\PBL3Final\PBL3Final\.Net\obj\Debug\PBL3.pdb
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\obj\Debug\PBL3.csproj.AssemblyReference.cache
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\obj\Debug\PBL3.FormFrgtPw.resources
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\obj\Debug\PBL3.FormInfo.ChangeEmail.resources
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\obj\Debug\PBL3.FormInfo.ChangePassword.resources
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\obj\Debug\PBL3.FormInfo.InfoPersonal.resources
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\obj\Debug\PBL3.FormManage.FormManage.resources
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\obj\Debug\PBL3.FormManage.ManageAccount.resources
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\obj\Debug\PBL3.FormManage.ManageFood.resources
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\obj\Debug\PBL3.FormManage.ManageFoodType.resources
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\obj\Debug\PBL3.FormManage.ManageTable.resources
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\obj\Debug\PBL3.HOME.resources
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\obj\Debug\PBL3.FormInfo.InfoAccount.resources
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\obj\Debug\PBL3.Login.resources
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\obj\Debug\PBL3.PrintBill.resources
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\obj\Debug\PBL3.Properties.Resources.resources
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\obj\Debug\PBL3.StatisticForm.resources
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\obj\Debug\PBL3.csproj.GenerateResource.cache
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\obj\Debug\PBL3.exe
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\obj\Debug\PBL3.pdb
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\PBL3.exe.config
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\PBL3.exe
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\PBL3.pdb
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\BUS.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\DAL.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\DTO.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\EnvDTE.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\stdole.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\BUS.pdb
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\DAL.pdb
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\DTO.pdb
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\.Net\obj\Debug\PBL3.csproj.CopyComplete

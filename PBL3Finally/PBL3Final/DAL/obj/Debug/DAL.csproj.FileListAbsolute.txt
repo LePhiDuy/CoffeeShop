@@ -1,0 +1,162 @@
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\DAL\bin\Debug\DAL.dll
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\DAL\bin\Debug\DAL.pdb
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\DAL\bin\Debug\DTO.dll
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\DAL\bin\Debug\DTO.pdb
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\DAL\obj\Debug\DAL.dll
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\DAL\obj\Debug\DAL.pdb
+D:\Ki 4\PBL\PBL3-git\DAL\bin\Debug\DAL.dll
+D:\Ki 4\PBL\PBL3-git\DAL\bin\Debug\DAL.pdb
+D:\Ki 4\PBL\PBL3-git\DAL\bin\Debug\DTO.dll
+D:\Ki 4\PBL\PBL3-git\DAL\bin\Debug\DTO.pdb
+D:\Ki 4\PBL\PBL3-git\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Ki 4\PBL\PBL3-git\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Ki 4\PBL\PBL3-git\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Ki 4\PBL\PBL3-git\DAL\obj\Debug\DAL.dll
+D:\Ki 4\PBL\PBL3-git\DAL\obj\Debug\DAL.pdb
+D:\PBL3-demo-long\DAL\bin\Debug\DAL.dll
+D:\PBL3-demo-long\DAL\bin\Debug\DAL.pdb
+D:\PBL3-demo-long\DAL\bin\Debug\DTO.dll
+D:\PBL3-demo-long\DAL\bin\Debug\DTO.pdb
+D:\PBL3-demo-long\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\PBL3-demo-long\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\PBL3-demo-long\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\PBL3-demo-long\DAL\obj\Debug\DAL.dll
+D:\PBL3-demo-long\DAL\obj\Debug\DAL.pdb
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\DAL\bin\Debug\DAL.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\DAL\bin\Debug\DAL.pdb
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\DAL\bin\Debug\DTO.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\DAL\bin\Debug\DTO.pdb
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\DAL\obj\Debug\DAL.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\DAL\obj\Debug\DAL.pdb
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\DAL\bin\Debug\DAL.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\DAL\bin\Debug\DAL.pdb
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\DAL\bin\Debug\DTO.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\DAL\bin\Debug\DTO.pdb
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\DAL\obj\Debug\DAL.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\DAL\obj\Debug\DAL.pdb
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\DAL\bin\Debug\DAL.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\DAL\bin\Debug\DAL.pdb
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\DAL\bin\Debug\DTO.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\DAL\bin\Debug\DTO.pdb
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\DAL\obj\Debug\DAL.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\DAL\obj\Debug\DAL.pdb
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\DAL\bin\Debug\DAL.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\DAL\bin\Debug\DAL.pdb
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\DAL\bin\Debug\DTO.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\DAL\bin\Debug\DTO.pdb
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\DAL\obj\Debug\DAL.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\DAL\obj\Debug\DAL.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\DAL\bin\Debug\DAL.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\DAL\bin\Debug\DAL.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\DAL\bin\Debug\DTO.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\DAL\bin\Debug\DTO.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\84354\Desktop\PBL3-Thống kê\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\84354\Desktop\PBL3-Thống kê\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\84354\Desktop\PBL3-Thống kê\DAL\obj\Debug\DAL.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\DAL\obj\Debug\DAL.pdb
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\DAL\bin\Debug\DAL.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\DAL\bin\Debug\DAL.pdb
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\DAL\bin\Debug\DTO.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\DAL\bin\Debug\DTO.pdb
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\DAL\obj\Debug\DAL.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\DAL\obj\Debug\DAL.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\DAL\bin\Debug\DAL.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\DAL\bin\Debug\DAL.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\DAL\bin\Debug\DTO.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\DAL\bin\Debug\DTO.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\DAL\obj\Debug\DAL.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\DAL\obj\Debug\DAL.pdb
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\DAL\bin\Debug\DAL.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\DAL\bin\Debug\DAL.pdb
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\DAL\bin\Debug\DTO.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\DAL\bin\Debug\DTO.pdb
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\DAL\obj\Debug\DAL.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\DAL\obj\Debug\DAL.pdb
+D:\Ki 4\PBL\PBL3Final\PBL3Final\DAL\bin\Debug\DAL.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\DAL\bin\Debug\DAL.pdb
+D:\Ki 4\PBL\PBL3Final\PBL3Final\DAL\bin\Debug\DTO.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\DAL\bin\Debug\DTO.pdb
+D:\Ki 4\PBL\PBL3Final\PBL3Final\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Ki 4\PBL\PBL3Final\PBL3Final\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Ki 4\PBL\PBL3Final\PBL3Final\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Ki 4\PBL\PBL3Final\PBL3Final\DAL\obj\Debug\DAL.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\DAL\obj\Debug\DAL.pdb
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\DAL\bin\Debug\DAL.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\DAL\bin\Debug\DAL.pdb
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\DAL\bin\Debug\DTO.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\DAL\bin\Debug\DTO.pdb
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\DAL\obj\Debug\DAL.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\DAL\obj\Debug\DAL.pdb
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\DAL\bin\Debug\DAL.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\DAL\bin\Debug\DAL.pdb
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\DAL\bin\Debug\DTO.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\DAL\bin\Debug\DTO.pdb
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\DAL\obj\Debug\DAL.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\DAL\obj\Debug\DAL.pdb
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\DAL\obj\Debug\DAL.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\DAL\obj\Debug\DAL.pdb
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\DAL\bin\Debug\DAL.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\DAL\bin\Debug\DAL.pdb
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\DAL\bin\Debug\DTO.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\DAL\bin\Debug\DTO.pdb
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\DAL\bin\Debug\DAL.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\DAL\bin\Debug\DAL.pdb
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\DAL\bin\Debug\DTO.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\DAL\bin\Debug\DTO.pdb
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\DAL\obj\Debug\DAL.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\DAL\obj\Debug\DAL.pdb
+D:\PBL3Final\PBL3Final\PBL3Final\DAL\bin\Debug\DAL.dll
+D:\PBL3Final\PBL3Final\PBL3Final\DAL\bin\Debug\DAL.pdb
+D:\PBL3Final\PBL3Final\PBL3Final\DAL\bin\Debug\DTO.dll
+D:\PBL3Final\PBL3Final\PBL3Final\DAL\bin\Debug\DTO.pdb
+D:\PBL3Final\PBL3Final\PBL3Final\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\PBL3Final\PBL3Final\PBL3Final\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\PBL3Final\PBL3Final\PBL3Final\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\PBL3Final\PBL3Final\PBL3Final\DAL\obj\Debug\DAL.dll
+D:\PBL3Final\PBL3Final\PBL3Final\DAL\obj\Debug\DAL.pdb
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\DAL\bin\Debug\DAL.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\DAL\bin\Debug\DAL.pdb
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\DAL\bin\Debug\DTO.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\DAL\bin\Debug\DTO.pdb
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\DAL\obj\Debug\DAL.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\DAL\obj\Debug\DAL.pdb

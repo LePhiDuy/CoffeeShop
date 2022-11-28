@@ -1,0 +1,27 @@
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\DAL\bin\Release\DAL.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\DAL\bin\Release\DAL.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\DAL\bin\Release\DTO.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\DAL\bin\Release\DTO.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\DAL\obj\Release\DAL.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\DAL\obj\Release\DAL.pdb
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\DAL\bin\Release\DAL.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\DAL\bin\Release\DAL.pdb
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\DAL\bin\Release\DTO.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\DAL\bin\Release\DTO.pdb
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\DAL\obj\Release\DAL.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\DAL\obj\Release\DAL.pdb
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\DAL\bin\Release\DAL.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\DAL\bin\Release\DAL.pdb
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\DAL\bin\Release\DTO.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\DAL\bin\Release\DTO.pdb
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\DAL\obj\Release\DAL.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\DAL\obj\Release\DAL.pdb

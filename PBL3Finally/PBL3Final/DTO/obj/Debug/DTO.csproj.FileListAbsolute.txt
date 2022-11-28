@@ -1,0 +1,60 @@
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\DTO\bin\Debug\DTO.dll
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\DTO\bin\Debug\DTO.pdb
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\DTO\obj\Debug\DTO.dll
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\DTO\obj\Debug\DTO.pdb
+D:\Ki 4\PBL\PBL3-git\DTO\bin\Debug\DTO.dll
+D:\Ki 4\PBL\PBL3-git\DTO\bin\Debug\DTO.pdb
+D:\Ki 4\PBL\PBL3-git\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Ki 4\PBL\PBL3-git\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Ki 4\PBL\PBL3-git\DTO\obj\Debug\DTO.dll
+D:\Ki 4\PBL\PBL3-git\DTO\obj\Debug\DTO.pdb
+D:\PBL3-demo-long\DTO\bin\Debug\DTO.dll
+D:\PBL3-demo-long\DTO\bin\Debug\DTO.pdb
+D:\PBL3-demo-long\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\PBL3-demo-long\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\PBL3-demo-long\DTO\obj\Debug\DTO.dll
+D:\PBL3-demo-long\DTO\obj\Debug\DTO.pdb
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\DTO\bin\Debug\DTO.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\DTO\bin\Debug\DTO.pdb
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\DTO\obj\Debug\DTO.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\DTO\obj\Debug\DTO.pdb
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\DTO\bin\Debug\DTO.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\DTO\bin\Debug\DTO.pdb
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\DTO\obj\Debug\DTO.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\DTO\obj\Debug\DTO.pdb
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\DTO\bin\Debug\DTO.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\DTO\bin\Debug\DTO.pdb
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\DTO\obj\Debug\DTO.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\DTO\obj\Debug\DTO.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\DTO\bin\Debug\DTO.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\DTO\bin\Debug\DTO.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\84354\Desktop\PBL3-Thống kê\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\84354\Desktop\PBL3-Thống kê\DTO\obj\Debug\DTO.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\DTO\obj\Debug\DTO.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\DTO\bin\Debug\DTO.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\DTO\bin\Debug\DTO.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\DTO\obj\Debug\DTO.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\DTO\obj\Debug\DTO.pdb
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\DTO\bin\Debug\DTO.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\DTO\bin\Debug\DTO.pdb
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\DTO\obj\Debug\DTO.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\DTO\obj\Debug\DTO.pdb
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\DTO\bin\Debug\DTO.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\DTO\bin\Debug\DTO.pdb
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\DTO\obj\Debug\DTO.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\DTO\obj\Debug\DTO.pdb

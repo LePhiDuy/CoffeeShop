@@ -1,0 +1,198 @@
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\BUS\bin\Debug\BUS.dll
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\BUS\bin\Debug\BUS.pdb
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\BUS\bin\Debug\DAL.dll
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\BUS\bin\Debug\DTO.dll
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\BUS\bin\Debug\DAL.pdb
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\BUS\bin\Debug\DTO.pdb
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\BUS\obj\Debug\BUS.dll
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\BUS\obj\Debug\BUS.pdb
+D:\Ki 4\PBL\PBL3-git\BUS\bin\Debug\BUS.dll
+D:\Ki 4\PBL\PBL3-git\BUS\bin\Debug\BUS.pdb
+D:\Ki 4\PBL\PBL3-git\BUS\bin\Debug\DAL.dll
+D:\Ki 4\PBL\PBL3-git\BUS\bin\Debug\DTO.dll
+D:\Ki 4\PBL\PBL3-git\BUS\bin\Debug\DAL.pdb
+D:\Ki 4\PBL\PBL3-git\BUS\bin\Debug\DTO.pdb
+D:\Ki 4\PBL\PBL3-git\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Ki 4\PBL\PBL3-git\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Ki 4\PBL\PBL3-git\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Ki 4\PBL\PBL3-git\BUS\obj\Debug\BUS.dll
+D:\Ki 4\PBL\PBL3-git\BUS\obj\Debug\BUS.pdb
+D:\PBL3-demo-long\BUS\bin\Debug\BUS.dll
+D:\PBL3-demo-long\BUS\bin\Debug\BUS.pdb
+D:\PBL3-demo-long\BUS\bin\Debug\DAL.dll
+D:\PBL3-demo-long\BUS\bin\Debug\DTO.dll
+D:\PBL3-demo-long\BUS\bin\Debug\DAL.pdb
+D:\PBL3-demo-long\BUS\bin\Debug\DTO.pdb
+D:\PBL3-demo-long\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\PBL3-demo-long\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\PBL3-demo-long\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\PBL3-demo-long\BUS\obj\Debug\BUS.dll
+D:\PBL3-demo-long\BUS\obj\Debug\BUS.pdb
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\BUS\bin\Debug\BUS.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\BUS\bin\Debug\BUS.pdb
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\BUS\bin\Debug\DAL.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\BUS\bin\Debug\DTO.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\BUS\bin\Debug\DAL.pdb
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\BUS\bin\Debug\DTO.pdb
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\BUS\obj\Debug\BUS.dll
+C:\Users\84354\Desktop\PBL3-demo-long_parrt2\BUS\obj\Debug\BUS.pdb
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\BUS\bin\Debug\BUS.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\BUS\bin\Debug\BUS.pdb
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\BUS\bin\Debug\DAL.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\BUS\bin\Debug\DTO.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\BUS\bin\Debug\DAL.pdb
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\BUS\bin\Debug\DTO.pdb
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\BUS\obj\Debug\BUS.dll
+C:\Users\duc tri\Desktop\PBL3-Main\PBL3-demo-long_parrt2\BUS\obj\Debug\BUS.pdb
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\BUS\bin\Debug\BUS.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\BUS\bin\Debug\BUS.pdb
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\BUS\bin\Debug\DAL.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\BUS\bin\Debug\DTO.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\BUS\bin\Debug\DAL.pdb
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\BUS\bin\Debug\DTO.pdb
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\BUS\obj\Debug\BUS.dll
+C:\Users\duc tri\Desktop\WPF\PBL3-Main\PBL3-demo-long_parrt2\BUS\obj\Debug\BUS.pdb
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\BUS\bin\Debug\BUS.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\BUS\bin\Debug\BUS.pdb
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\BUS\bin\Debug\DAL.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\BUS\bin\Debug\DTO.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\BUS\bin\Debug\DAL.pdb
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\BUS\bin\Debug\DTO.pdb
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\BUS\obj\Debug\BUS.dll
+C:\Users\LONG\Downloads\PBL3-Main\PBL3-Main\PBL3-demo-long_parrt2\BUS\obj\Debug\BUS.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\BUS\bin\Debug\BUS.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\BUS\bin\Debug\BUS.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\BUS\bin\Debug\DAL.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\BUS\bin\Debug\DTO.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\BUS\bin\Debug\DAL.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\BUS\bin\Debug\DTO.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\84354\Desktop\PBL3-Thống kê\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\84354\Desktop\PBL3-Thống kê\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\84354\Desktop\PBL3-Thống kê\BUS\obj\Debug\BUS.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\BUS\obj\Debug\BUS.pdb
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\BUS\bin\Debug\BUS.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\BUS\bin\Debug\BUS.pdb
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\BUS\bin\Debug\DAL.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\BUS\bin\Debug\DTO.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\BUS\bin\Debug\DAL.pdb
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\BUS\bin\Debug\DTO.pdb
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\BUS\obj\Debug\BUS.dll
+C:\Users\LONG\Downloads\PBL3-Thống kê\PBL3-Thống kê\BUS\obj\Debug\BUS.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\BUS\bin\Debug\BUS.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\BUS\bin\Debug\BUS.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\BUS\bin\Debug\DAL.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\BUS\bin\Debug\DTO.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\BUS\bin\Debug\DAL.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\BUS\bin\Debug\DTO.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\BUS\obj\Debug\BUS.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\BUS\obj\Debug\BUS.pdb
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\BUS\bin\Debug\BUS.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\BUS\bin\Debug\BUS.pdb
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\BUS\bin\Debug\DAL.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\BUS\bin\Debug\DTO.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\BUS\bin\Debug\DAL.pdb
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\BUS\bin\Debug\DTO.pdb
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\BUS\obj\Debug\BUS.dll
+C:\Users\84354\Desktop\PBL3\PBL3-Thống kê\PBL3-Thống kê\BUS\obj\Debug\BUS.pdb
+D:\Ki 4\PBL\PBL3Final\PBL3Final\BUS\bin\Debug\BUS.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\BUS\bin\Debug\BUS.pdb
+D:\Ki 4\PBL\PBL3Final\PBL3Final\BUS\bin\Debug\DAL.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\BUS\bin\Debug\DTO.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\BUS\bin\Debug\DAL.pdb
+D:\Ki 4\PBL\PBL3Final\PBL3Final\BUS\bin\Debug\DTO.pdb
+D:\Ki 4\PBL\PBL3Final\PBL3Final\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Ki 4\PBL\PBL3Final\PBL3Final\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Ki 4\PBL\PBL3Final\PBL3Final\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Ki 4\PBL\PBL3Final\PBL3Final\BUS\obj\Debug\BUS.dll
+D:\Ki 4\PBL\PBL3Final\PBL3Final\BUS\obj\Debug\BUS.pdb
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\BUS\bin\Debug\BUS.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\BUS\bin\Debug\BUS.pdb
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\BUS\bin\Debug\DAL.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\BUS\bin\Debug\DTO.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\BUS\bin\Debug\DAL.pdb
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\BUS\bin\Debug\DTO.pdb
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\BUS\obj\Debug\BUS.dll
+C:\Users\duc tri\Documents\Kỳ 5\Pháp luật đại cương\PBL3Final\PBL3Final\BUS\obj\Debug\BUS.pdb
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\BUS\bin\Debug\BUS.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\BUS\bin\Debug\BUS.pdb
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\BUS\bin\Debug\DAL.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\BUS\bin\Debug\DTO.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\BUS\bin\Debug\DAL.pdb
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\BUS\bin\Debug\DTO.pdb
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\BUS\obj\Debug\BUS.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\BUS\obj\Debug\BUS.pdb
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\BUS\bin\Debug\BUS.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\BUS\bin\Debug\BUS.pdb
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\BUS\bin\Debug\DAL.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\BUS\bin\Debug\DTO.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\BUS\bin\Debug\DAL.pdb
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\BUS\bin\Debug\DTO.pdb
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\BUS\obj\Debug\BUS.dll
+D:\PBL3-Main (1)\PBL3-Main\PBL3Final\BUS\obj\Debug\BUS.pdb
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\BUS\bin\Debug\BUS.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\BUS\bin\Debug\BUS.pdb
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\BUS\bin\Debug\DAL.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\BUS\bin\Debug\DTO.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\BUS\bin\Debug\DAL.pdb
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\BUS\bin\Debug\DTO.pdb
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\BUS\obj\Debug\BUS.dll
+C:\Users\84354\Downloads\PBL3Final\PBL3Final\BUS\obj\Debug\BUS.pdb
+D:\PBL3Final\PBL3Final\PBL3Final\BUS\bin\Debug\BUS.dll
+D:\PBL3Final\PBL3Final\PBL3Final\BUS\bin\Debug\BUS.pdb
+D:\PBL3Final\PBL3Final\PBL3Final\BUS\bin\Debug\DAL.dll
+D:\PBL3Final\PBL3Final\PBL3Final\BUS\bin\Debug\DTO.dll
+D:\PBL3Final\PBL3Final\PBL3Final\BUS\bin\Debug\DAL.pdb
+D:\PBL3Final\PBL3Final\PBL3Final\BUS\bin\Debug\DTO.pdb
+D:\PBL3Final\PBL3Final\PBL3Final\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\PBL3Final\PBL3Final\PBL3Final\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\PBL3Final\PBL3Final\PBL3Final\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\PBL3Final\PBL3Final\PBL3Final\BUS\obj\Debug\BUS.dll
+D:\PBL3Final\PBL3Final\PBL3Final\BUS\obj\Debug\BUS.pdb
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\BUS\bin\Debug\BUS.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\BUS\bin\Debug\BUS.pdb
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\BUS\bin\Debug\DAL.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\BUS\bin\Debug\DTO.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\BUS\bin\Debug\DAL.pdb
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\BUS\bin\Debug\DTO.pdb
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\BUS\obj\Debug\BUS.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\BUS\obj\Debug\BUS.pdb

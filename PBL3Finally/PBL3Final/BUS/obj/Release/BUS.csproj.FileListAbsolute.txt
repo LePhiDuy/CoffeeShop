@@ -1,0 +1,33 @@
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\BUS\bin\Release\BUS.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\BUS\bin\Release\BUS.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\BUS\bin\Release\DAL.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\BUS\bin\Release\DTO.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\BUS\bin\Release\DAL.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\BUS\bin\Release\DTO.pdb
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\BUS\obj\Release\BUS.csproj.AssemblyReference.cache
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\BUS\obj\Release\BUS.csproj.CoreCompileInputs.cache
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\BUS\obj\Release\BUS.csproj.CopyComplete
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\BUS\obj\Release\BUS.dll
+C:\Users\84354\Desktop\PBL3-Thống kê\PBL3-Thống kê\BUS\obj\Release\BUS.pdb
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\BUS\bin\Release\BUS.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\BUS\bin\Release\BUS.pdb
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\BUS\bin\Release\DAL.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\BUS\bin\Release\DTO.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\BUS\bin\Release\DAL.pdb
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\BUS\bin\Release\DTO.pdb
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\BUS\obj\Release\BUS.csproj.AssemblyReference.cache
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\BUS\obj\Release\BUS.csproj.CoreCompileInputs.cache
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\BUS\obj\Release\BUS.csproj.CopyComplete
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\BUS\obj\Release\BUS.dll
+C:\Users\84354\Desktop\PBL3Final\PBL3Final\PBL3Final\BUS\obj\Release\BUS.pdb
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\BUS\bin\Release\BUS.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\BUS\bin\Release\BUS.pdb
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\BUS\bin\Release\DAL.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\BUS\bin\Release\DTO.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\BUS\bin\Release\DAL.pdb
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\BUS\bin\Release\DTO.pdb
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\BUS\obj\Release\BUS.csproj.AssemblyReference.cache
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\BUS\obj\Release\BUS.csproj.CoreCompileInputs.cache
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\BUS\obj\Release\BUS.csproj.CopyComplete
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\BUS\obj\Release\BUS.dll
+C:\Users\84354\Desktop\PBL3Finally\PBL3Final\BUS\obj\Release\BUS.pdb

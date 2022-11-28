@@ -1,0 +1,12 @@
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\PBL3\bin\Debug\PBL3.exe.config
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\PBL3\bin\Debug\PBL3.exe
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\PBL3\bin\Debug\PBL3.pdb
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\PBL3\obj\Debug\PBL3.csproj.AssemblyReference.cache
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\PBL3\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\PBL3\obj\Debug\PBL3.HOME.resources
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\PBL3\obj\Debug\PBL3.Login.resources
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\PBL3\obj\Debug\PBL3.exe
+C:\Users\nguye\Source\Repos\pbl32022\PBL3\PBL3\obj\Debug\PBL3.pdb
